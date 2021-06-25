@@ -9,4 +9,5 @@ High Fidelity is a lot more detail and direction for what is going on including 
 # Do you think wire-frames are worth the Time, Energy, and Effort that they require? Why or Why not?
 Being married to a graphif designer the answer is yes. It is a place to start from and for which iterations and growth are easy to follow and develop. It makes starting a project, and ultimately ending a project, much easier and more effective.
 
-Link:
+Link: https://github.com/LucWeidell/john-deer-site.git
+Luc and I were partners.

@@ -3,7 +3,7 @@
 
 
 ### What is your favorite tip that you think is the most beneficial to improving your design?
-Adding extra space.
+Adding extra space. Using accent colors. 
 
 ### Compile a couple resources that you think might be helpful when trying to review examples of good design ideas.
 Font Awesome, Google Fonts, Bootswatch, and Unsplash for resources to use. Resources to look for good ideas: https://www.spinxdigital.com/, https://www.intuit.com/, https://www.tdp-arch.com/, https://www.hubspot.com/. 
