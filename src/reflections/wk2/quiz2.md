@@ -64,7 +64,8 @@ you.push(them)
 
 <!-- enter you answer in the space below -->
 
-```if(sugar is in it){
+```
+if(sugar is in it){
   don't eat it
 }
 Eat it
