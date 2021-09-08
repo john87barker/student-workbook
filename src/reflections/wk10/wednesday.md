@@ -12,3 +12,5 @@ CREATE TABLE characters(
 ## What is the difference between the following statements:
 DELETE FROM table_name; This deletes an item from the table.
 DROP TABLE table_name; This deletes the entire table.
+
+Link:https://john87barker.github.io/knight/

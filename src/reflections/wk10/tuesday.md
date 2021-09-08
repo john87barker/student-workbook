@@ -9,4 +9,5 @@ List.Add because typically you'll need to add things to a list more often than a
 I would use one of the find methods: find, findAll, findbyindex, findlast or findlastindex.
 
 
-Link: I had gregslist set up here but then github sent me an email saying I should probably not allow the page to be created  because of certain things.
+Link: I had gregslist set up here but then github sent me an email saying I should probably not allow the page to be created  because of certain things.  
+https://john87barker.github.io/c-greglist/

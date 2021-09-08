@@ -8,3 +8,5 @@ You can modify enums with EnumTricks.
 
 ## How have you used Enums in your afternoon lab projects this far?(if you have not yet, give an example of how you could)
 The one that comes to mind that you could easily use would be the 'open/closed' idea.
+
+Link: https://john87barker.github.io/Recipes/
