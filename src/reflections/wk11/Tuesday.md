@@ -20,3 +20,4 @@ string sql = @"
         return dr;
       }, new { id }, splitOn: "id").ToList()
 
+Link: https://john87barker.github.io/Contracted/
